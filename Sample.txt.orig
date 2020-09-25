@@ -1,4 +1,5 @@
-
+<<<<<<< HEAD
 This is my local machine sample feature.
+=======
 This is my master changed sample feature.
-now i made changes in nano.
+>>>>>>> 9c498749019a491180ef1233e253a417d3e69d03
